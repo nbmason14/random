@@ -3,7 +3,7 @@ import pandas as pd
 from itertools import combinations
 
 # Your Bing Search API key
-API_KEY = "12d1cf59a9b3433e807c9d446b576577"
+#API_KEY = ""
 ENDPOINT = "https://api.bing.microsoft.com/v7.0/news/search"
 
 # List of base search terms
